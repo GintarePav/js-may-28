@@ -1,0 +1,9 @@
+.search-form {
+    input, select, button {
+        border: 1px solid #6c757e;
+    }
+
+    &__category-item {
+        text-transform: capitalize;
+    }    
+}

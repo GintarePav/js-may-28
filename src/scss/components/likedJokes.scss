@@ -1,0 +1,7 @@
+.joke-list {
+    &__card {
+        width: 18rem;
+        height: 150px;
+        overflow-y: scroll;
+    }
+}
